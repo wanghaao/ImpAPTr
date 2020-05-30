@@ -3,7 +3,8 @@ A Tool For Identifying The Clues To Online Service Anomalies
 
 ## Dataset
 There is a dataset of all service calls of March of MT. The first level directory represents the day of march and the second represents the different interval(5 minutes for an interval) of each day.
-https://pan.baidu.com/s/1BgxoQ9l1PHCWHr1ZfM7pFQ  Extraction code: h1am
+
+https://pan.baidu.com/s/1BgxoQ9l1PHCWHr1ZfM7pFQ  Extraction code: 'h1am'
 
 **Attention**
 - The dataset has been desensitized.
@@ -12,7 +13,7 @@ https://pan.baidu.com/s/1BgxoQ9l1PHCWHr1ZfM7pFQ  Extraction code: h1am
 ## Running 
 The python file 'ImpAPTr.py' is the main body of our tool and you should run the file 'ImpAPTr_test.py'.
 1. When you notice the DSR(Declining Success Rate) of SRSC(Success Rate of Service Calls), you should get the interval on where the DSR occurs.
-![The success rate of 10 March, 2020](https://github.com/wanghaoUp/ImpAPTr/ImpAPTr_module/blob/master/success_rate_3.10.png)
+![The success rate of 10 March, 2020](https://github.com/wanghaoUp/ImpAPTr/blob/master/ImpAPTr_module/success_rate_3.10.png)
 2. Please run the file 'ImpAPTr_test.py' by the following command,
 > _python ImpAPTr\_test.py \[day] \[interval]_
 
