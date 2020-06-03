@@ -28,5 +28,5 @@ The parameter 'day' and 'interval' are the time of DSR's occuring.
 
 ## Example
 We propose two anomaly examples for the service on March. The first is an example of sharp DSR, and another is slight drop.
-- 2020.3.10 08:00~08:05
-- 2020.3.19 11:20~11:25
+- 2020.3.10 08:00~08:05     python ImpAPTr\_test.py  10  480
+- 2020.3.19 11:20~11:25     python ImpAPTr\_test.py  19  680
