@@ -21,6 +21,11 @@ The parameter 'day' and 'interval' are the time of DSR's occuring.
 
 3. After the running of the tool, there are some candidate clues which can benefit operators to find out the real 'root cause' and maintain the stability of service.
 
+## The project directory
+- /ImpAPTr_module/dataset/..
+- /ImpAPTr_module/ImpAPTr.py
+- /ImpAPTr_module/ImpAPTr_test.py
+
 ## Example
 We propose two anomaly examples for the service on March. The first is an example of sharp DSR, and another is slight drop.
 - 2020.3.10 08:00~08:05
