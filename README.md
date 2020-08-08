@@ -2,9 +2,16 @@
 A Tool For Identifying The Clues To Online Service Anomalies
 
 ## Dataset
-There is a dataset of all service calls of March of MT. The first level directory represents the day of march and the second represents the different interval(5 minutes for an interval) of each day.
+There is a dataset of real service calls of MT. The first level directory represents the day of march and the second represents the different interval(5 minutes for an interval) of each day.
 
-Dataset: https://pan.baidu.com/s/1BgxoQ9l1PHCWHr1ZfM7pFQ  Extraction code: 'h1am'
+### Dataset1 
+Dataset1 only contains total service calls of three days (i.e., 10,19,22 March) and some real anomalies used in the last part **"Example"** exist in this dataset.
+Link : https://www.jianguoyun.com/p/De4m7c8QtbXZCBiktbID
+
+### Dataset2
+- This dataset contains 31 files of Jan and each file contains all service calls of each day.
+- The first number of each line of a file represents the interval.
+Link : https://www.jianguoyun.com/p/DTPfNicQtbXZCBiTtbID
 
 **Attention**
 - The dataset has been desensitized.
