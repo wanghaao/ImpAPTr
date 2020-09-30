@@ -1,5 +1,4 @@
 # ImpAPTr
-A Tool For Identifying The Clues To Online Service Anomalies
 
 ## Dataset
 There is a dataset of real service calls of MT. The first level directory represents the day of march and the second represents the different interval(5 minutes for an interval) of each day.
